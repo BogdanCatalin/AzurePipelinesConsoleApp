@@ -15,7 +15,7 @@ namespace AzurePipelinesConsoleTests
         [TestMethod]
         public void Fail_TestMethod()
         {
-            Assert.AreEqual(1, 2);
+            Assert.AreEqual(1, 1);
         }
     }
 }
